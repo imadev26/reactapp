@@ -1,4 +1,4 @@
-<img width="1920" height="990" alt="image" src="https://github.com/user-attachments/assets/21ba49d5-2ec8-478b-90f6-2d32553a0c72" /># compte-client
+# compte-client
 
 Petit projet React pour gérer des comptes via une API REST.
 
