@@ -7,7 +7,8 @@ Preuve de fonctionnement
 
 Ci-dessous une capture d'écran montrant l'application en cours d'exécution (liste des comptes et formulaire d'ajout).
 
-![Preuve de fonctionnement](assets/proof.png)
+![Uploading image.png…]()
+
 
 How to run (Windows PowerShell):
 
